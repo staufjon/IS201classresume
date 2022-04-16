@@ -1,0 +1,72 @@
+/* all styles for class  */
+a{
+    text-decoration: underline;
+    color: antiquewhite;
+}
+h2{
+    font-size: 2.5vw;
+    background-color: black;
+    color: antiquewhite;
+    padding-left: 10;
+    
+}
+span{
+    color: antiquewhite;
+}
+.customBG{
+    background-image: url("../images/customBG.png")
+}
+.customBG2{
+    background-image: url("../images/customBG2.jpg")
+}
+.customBG3{
+    background-color: antiquewhite;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.customBG4{
+    background-image: url("../images/customBG4.jpg");
+}
+.customborder{
+    border-bottom: solid black 5px;
+}
+
+.normalFont{
+    font-weight: normal;
+}
+.customImg{
+    width: 160;
+    height: 160;
+}
+.bold{
+    font-weight: bold;
+}
+.color{
+    color: white;
+}
+.h2custom{
+    font-size: 50px;
+    background-color: transparent;
+    color: black;
+}
+.acustom{
+    color: blue;
+}
+.cfontcustom{
+    color: white;
+}
+.spancustom{
+    color: blue;
+}
+.sizecustom{
+    width: 15vw;
+}
+.sfontcustom{
+    font-size: 3vw;
+}
+.top{
+    margin: 0;
+}
+.padding{
+    padding-left: 45px;
+}

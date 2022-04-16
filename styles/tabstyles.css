@@ -1,0 +1,71 @@
+h3{
+    font-size: 1.5vw;
+}
+p{
+    font-size: 1vw;
+}
+.common{
+    position: absolute;
+    padding: 5px;
+    padding-left: 10px;
+    height: 500px;
+}
+.header{
+    position: sticky;
+    left: 10px;
+    top: 0px;
+    height: 40px;
+    width: 100%;
+    z-index: 5;
+}
+.subheader{
+    float: right;
+    padding-right: 25px;
+}
+.topleft{
+    top:10%;
+    height: 38%;
+    left: 5%;
+    right: 52%;
+    border: solid black 10px;
+    z-index: 3;
+}
+.topright{
+    top:10%;
+    height: 38%;
+    right: 5%;
+    left: 52%;
+    border: solid black 10px;
+    z-index: 2;
+}
+.bottomleft{
+    height: 38%;
+    bottom: 10px;
+    left: 5%;
+    right: 52%;
+    border: solid black 10px;
+    z-index: 1;
+}
+.bottomright{
+    height: 38%;
+    bottom: 10px;
+    right: 5%;
+    left: 52%;
+    border: solid black 10px;
+    z-index: 0;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    z-index: 4;
+}
+.sizecustom{
+    width: 100%;
+    height: 90%;
+    /* height: fit-content;
+    max-height: fit-content; */
+}
