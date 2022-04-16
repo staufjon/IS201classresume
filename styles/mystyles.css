@@ -41,6 +41,12 @@ span{
 .bold{
     font-weight: bold;
 }
+.italic{
+    font-style: italic;
+}
+.fontfamily{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .color{
     color: white;
 }
